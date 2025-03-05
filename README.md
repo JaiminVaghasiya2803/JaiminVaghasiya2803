@@ -10,7 +10,7 @@
 
 📫 How to reach me:
 
-LinkedIn: Jaimin Vaghasiya
+LinkedIn: [Jaimin Vaghasiya](https://in.linkedin.com/in/jaimin-vaghasiya)
 
 Email: vaghasiyajaimin28@gmail.com
 
