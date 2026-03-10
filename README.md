@@ -1,26 +1,57 @@
-👋 Hi, I’m Jaimin Vaghasiya
+# 👋 Hi, I'm Jaimin Vaghasiya
 
-👀 I’m a React Native Developer with over 3.5 years of experience.
+🚀 **React Native Developer | Mobile App Engineer**
 
-💪 Passionate about building cross-platform mobile applications.
+I’m a **React Native Developer with 4+ years of experience** building scalable, high-performance cross-platform mobile applications. I specialize in developing production-grade apps with modern architectures, efficient state management, and seamless API integrations.
 
-🚀 Skilled in React Native CLI, Redux Toolkit, TypeScript, and API Integrations.
+---
 
-🎯 Always exploring new technologies to enhance performance and user experience.
+## 💻 Tech Stack
 
-📫 How to reach me:
+- **Mobile Development:** React Native, Expo
+- **Frontend:** React.js, Next.js
+- **State Management:** Redux Toolkit, Zustand
+- **Languages:** TypeScript, JavaScript
+- **APIs:** REST, GraphQL, Shopify Storefront API
+- **Testing:** Maestro Automation
+- **Tools:** Git, Postman, Instabug
+- **Styling:** NativeWind
 
-LinkedIn: [Jaimin Vaghasiya](https://in.linkedin.com/in/jaimin-vaghasiya)
+---
 
-Email: vaghasiyajaimin28@gmail.com
+## 📱 What I Work On
 
-😄 Pronouns:
+- Building **scalable cross-platform mobile apps**
+- Developing **Shopify-powered e-commerce applications**
+- Implementing **performance optimization techniques**
+- Creating **offline-first mobile architectures**
+- Automating testing workflows with **Maestro**
 
-He/Him
+---
 
-⚡ Fun fact:
+## 🌱 Currently Exploring
 
-I love garba and solving challenging coding problems.
+- Advanced **React Native performance optimization**
+- **Offline-first mobile architecture**
+- **Mobile automation testing**
+- Scalable mobile app architecture
 
-⭐️ Feel free to reach out and let's build something amazing together!
+---
 
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/jaimin-vaghasiya/
+
+- 📧 **Email:**  
+  vaghasiyajaimin28@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+When I'm not coding, you'll probably find me enjoying **Garba 🕺 or solving challenging programming problems.**
+
+---
+
+⭐️ Feel free to explore my repositories and connect — I'm always open to collaborating on interesting projects!
